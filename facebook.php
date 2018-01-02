@@ -19,6 +19,7 @@
 	$con = mysqli_connect("localhost","root","root","Training");
 	?>
 	
+
 	<?php $NAME=$_POST['Name'];;
 	
 	?>
@@ -110,7 +111,7 @@
 
 			</ul>
 			</div>
-			<!--/.nav-collapse -->
+			<!--/.nav-collapse me -->
 		  </div>
 		</div>
 	  </div>
